@@ -149,17 +149,15 @@ uv run generate_freestyle_cues.py --help
 rm -rf tts_cache/
 ```
 
-## 📝 License
+## License
 
-MIT License - Feel free to modify and distribute.
+[PolyForm Noncommercial 1.0.0](LICENSE.md): free for personal use, research, education and noncommercial organizations. Commercial use requires a separate license; contact Spencer Boucher.
+
+Outside contributions require agreeing to a contributor license agreement; open an issue before sending a pull request.
 
 ## 🤝 Contributing
 
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes  
-4. Test thoroughly
-5. Submit a pull request
+Open an issue to discuss a change before sending a pull request; see [License](#license) for the contributor license agreement.
 
 ---
 
